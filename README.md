@@ -9,5 +9,5 @@ Hewwo,
 
 # Using
 
-° Download or copy the Python code.
-° Go with cmd to the area where the file is stored and type in cmd "python BMI-calculator" to run.
+° Download or copy the Python code.<br>
+° Go with cmd to the area where the file is stored and type in cmd "python BMI-calculator" to run.<br>
