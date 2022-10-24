@@ -39,11 +39,11 @@ yourBMI = round(calcBMI, 1)
 
 if (yourBMI < 18.5):
     print(f"{yourBMI} - You are underweight.")
-elif (18.5 < yourBMI < 24.9):
+elif (0 < yourBMI < 24.9):
     print(f"{yourBMI} - You are normal weight.")
 elif (25 < yourBMI < 29.9):
     print(f"{yourBMI} - You are overweight.")
-elif (30 < yourBMI < 300):
+elif (30 < yourBMI < 999999):
     print(f"{yourBMI} - You are obese.")
     
 #     /\_____/\
